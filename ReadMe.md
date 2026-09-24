@@ -34,10 +34,6 @@ Ale i tak jsem na něm pečlivě pracoval, i když na něm pořád vidím chyby.
 Jestli se někdy budu vracet k menším projektům, jako je tenhle, udělám ho funkčnější pro více instrukcí.
 (Např. info o známkách, více známek – písemky, více místa pro předměty atd.)
 
-## Autor
-
-[GoldInkow](https://github.com/GoldInkow)
-
 ## Screenshoty
 
 ![Start okno](Screenshots/Start_okno.png)
