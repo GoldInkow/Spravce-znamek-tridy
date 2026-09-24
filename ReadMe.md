@@ -13,7 +13,7 @@ Vytvořeno v Pythonu s Tkinterem.
 - Výpočet průměru třídy
 - Ukládání dat do JSON
 
-## Jak spustit
+## Jak spustit?
 
 1. Nainstaluj Python 3.10+
 2. Spusť `main.py`
