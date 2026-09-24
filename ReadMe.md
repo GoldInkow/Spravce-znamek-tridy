@@ -23,7 +23,7 @@ Vytvořeno v Pythonu s Tkinterem.
 
 ## Požadavky
 
-- Python 3.10+
+- Python 3.10+-
 - Tkinter (součást Pythonu)
 
 ## Co plánuji s projektem dělat dál
